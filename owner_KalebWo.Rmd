@@ -1,3 +1,4 @@
+
 ---
 title: "owner_KalebWo"
 author: "Kaleb Wohlgemuth"
@@ -13,3 +14,8 @@ I have a whiteboard that I write things down on, I am otherwise not very organiz
 
 Interesting Fact: I only have one functioning kidney.
 
+Understanding Concepts:
+1. Git runs on my local machine and I can access it without internet access. GitHub is an online way to access other users and can be used to access your local files remotely.
+2. Git and GitHub can be used independently but they are best used together because they were designed to be used simultaneously. There are many functions of Git/GitHub that are specific to the collaboration between Git and GitHub.
+3. a repository is a location similar to a folder that can be used to store other files or documents. This can be created with the following commands:
+mkdir NAME_OF_REPO 
