@@ -1,3 +1,11 @@
+---
+title: "owner_KalebWo"
+author: "Kaleb Wohlgemuth"
+date: "9/5/2019"
+output: html_document
+---
+
+
 Kaleb Wohlgemuth
 As a civil engineer, what I do/will do allows everyone else to get to where they need to go.
 
@@ -5,12 +13,3 @@ I have a whiteboard that I write things down on, I am otherwise not very organiz
 
 Interesting Fact: I only have one functioning kidney.
 
-
-Understanding Concepts:
- 1. Git is based in my local machine and can be used without an internet connection. Github is a ...
- 2.
- 3.
-Coding Exercises:
-1)
-X = c(47,34,33,65,37,NA,43,NA,11,NA,23,NA)
-which(is.na(X))
